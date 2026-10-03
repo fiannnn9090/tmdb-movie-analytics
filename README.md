@@ -9,6 +9,8 @@ which factors are associated with a film earning back its budget. Instead of loo
 alone, the analysis measures return per dollar with the **revenue multiple** (revenue / budget,
 where 1.0x is break-even).
 
+**[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/TMDBMovieAnalytics/TMDBMovieAnalytics?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)**
+
 ## Business Question  
 
 > What distinguishes films that earn back their budget from those that do not?
