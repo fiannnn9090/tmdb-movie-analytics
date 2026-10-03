@@ -11,6 +11,8 @@ where 1.0x is break-even).
 
 **[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/TMDBMovieAnalytics/TMDBMovieAnalytics?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)**
 
+[![TMDB Movie Analytics dashboard](images/dashboard_preview.png)](https://public.tableau.com/views/TMDBMovieAnalytics/TMDBMovieAnalytics?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link)
+
 ## Business Question  
 
 > What distinguishes films that earn back their budget from those that do not?
